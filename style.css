@@ -67,6 +67,8 @@ ul.nav-menu {
   justify-content: center;
   align-items: center;
   list-style: none;
+  border-left: 2px solid var(--dark-aqua);
+  margin-left: 2%;
 }
 
 ul.nav-menu li a {
